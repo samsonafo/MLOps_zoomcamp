@@ -1,4 +1,4 @@
-![](banner.png)
+![Banner](./img/banner.png)
 
 ### Description
 This Repository is a documentation of all my Homework solutions of the dataTalks Club MLOps Zoomcamp.
